@@ -78,5 +78,15 @@ Visual correlation shows that months with higher FCR often align with higher CSA
 
 ![Screenshot 2025-06-08 162618](https://github.com/user-attachments/assets/cdb6cea6-80de-4e40-b7a8-70e0e1c4dba1)
 
+# 📌 Recommendations
+
+**investigate causes for high AHT, especially in Q4 Arabic interactions.**
+
+**Focus on boosting SLA by reducing waiting/handling time and balancing workforce allocation.**
+
+**Continue efforts in maintaining high PCA and FCR, as they’re strongly linked to CSAT.**
+
+**Prepare for high-volume months like January–March with better forecasting and staffing.**
+
 
 
